@@ -43,7 +43,3 @@
 
 - $(window).on('addressKeysUpdated.vtex', (event, orderForm) => console.log("addressKeysUpdated.vtex"));
 
-
-elementsCommonsEvents() {
-       return "#btn-client-pre-email, #btn-identified-user-button, #cart-to-orderform, #go-to-payment, #btn-go-to-payment, #go-to-      shipping, #open-shipping, #edit-shipping-data, #edit-profile-data, #shipping-option-pickup-in-point, #shipping-option-delivery";
-    }
