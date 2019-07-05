@@ -1,4 +1,4 @@
-# vtex-checkoutevents
+# vtex-checkoutEvents
 
 
 - $(window).on('orderFormUpdated.vtex', (event, orderForm) => console.log("orderFormUpdated.vtex"));
