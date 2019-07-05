@@ -43,3 +43,5 @@
 
 - $(window).on('addressKeysUpdated.vtex', (event, orderForm) => console.log("addressKeysUpdated.vtex"));
 
+## Credits
+* (https://github.com/Zeindelf) 
