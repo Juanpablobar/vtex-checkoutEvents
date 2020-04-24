@@ -44,4 +44,4 @@
 - $(window).on('addressKeysUpdated.vtex', (event, orderForm) => console.log("addressKeysUpdated.vtex"));
 
 
-Mapped by the best VTEX developer in Brazil[Zeindelf](https://github.com/Zeindelf)
+Mapped by the best VTEX developer in Brazil [Zeindelf](https://github.com/Zeindelf)
