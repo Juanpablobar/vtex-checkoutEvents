@@ -42,3 +42,7 @@
 - $(window).on('googleMapsAPILoaded.vtex', (event, orderForm) => console.log("googleMapsAPILoaded.vtex"));
 
 - $(window).on('addressKeysUpdated.vtex', (event, orderForm) => console.log("addressKeysUpdated.vtex"));
+
+
+All events mapped by [Zeindelf](https://github.com/Zeindelf).
+
