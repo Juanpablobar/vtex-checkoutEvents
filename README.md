@@ -43,6 +43,14 @@
 
 - $(window).on('addressKeysUpdated.vtex', (event, orderForm) => console.log("addressKeysUpdated.vtex"));
 
+- $(window).on('paidValueUpdated.vtex', (event, orderForm) => console.log("paidValueUpdated.vtex"));
+
+- $(window).on('paymentUpdated.vtex', (event, orderForm) => console.log("paymentUpdated.vtex"));
+
+- $(window).on('sendAttachment.vtex', (event, orderForm) => console.log("sendAttachment.vtex"));
+
+- $(window).on('startTransaction.vtex', (event, orderForm) => console.log("startTransaction.vtex"));
+
 
 Events mapped by [Zeindelf](https://github.com/Zeindelf).
 
